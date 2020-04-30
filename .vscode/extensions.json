@@ -2,6 +2,7 @@
     "recommendations": [
         "stepsize.tech-debt-tracker",
         "streetsidesoftware.code-spell-checker",
-        "wix.vscode-import-cost"
+        "wix.vscode-import-cost",
+        "jpoissonnier.vscode-styled-components"
     ]
 }
