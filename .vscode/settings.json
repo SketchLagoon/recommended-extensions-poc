@@ -1,15 +1,6 @@
 {
-  //formats file on both save and paste
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
   //highlights unsaved tabs
   "workbench.editor.highlightModifiedTabs": true,
-  //removes additional blank lines at the bottom of the document on save
-  "files.trimFinalNewlines": true,
-  "files.insertFinalNewline": true,
-  //cursor behavior
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": true,
   //renders spaces with a small dot in the middle to visualize any unintentional space
   "editor.renderWhitespace": "boundary"
 }
